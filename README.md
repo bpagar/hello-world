@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Hi I like angularJS adn node.js
+Hi I like angularJS and node.js
